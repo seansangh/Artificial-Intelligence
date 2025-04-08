@@ -1,17 +1,41 @@
 # Artificial-Intelligence
 
 Versions:
-- cython==3.0.3
-- matplotlib==3.8.0
-- scikit-learn==1.3.1
-- scipy==1.11.3
-- pymunk==5.7.0
-- pygame==2.5.2
-- pillow==10.0.1
-- numpy==1.26.1
-- noise==1.2.2
-- torch==2.2.0
-- torchvision==0.17.0
+- cython 3.0.3
+- matplotlib 3.8.0
+- scikit-learn 1.3.1
+- scipy 1.11.3
+- pymunk 5.7.0
+- pygame 2.5.2
+- pillow 10.0.1
+- numpy 1.26.1
+- noise 1.2.2
+- torch 2.2.0
+- torchvision 0.17.0
+
+<hr>
+
+Technologies:
+<ul>
+  <li>Python</li>
+  <li>Jupyter Notebook</li>
+</ul>
+
+
+<hr>
+
+Topics:
+<ol>
+<li>Neural Networks</li>
+<li>Classical Planning</li>
+<li>Modeling & Reasoning</li>
+<li>Reinforcement Learning</li>
+<li>Bayesian Networks</li>
+<li>Sensors for Perception</li>
+<li>Perception based Recognition</li>
+<li>Real-world Applications</li>
+<li>Robotics</li>
+<li>Quantum Computing</li></ol>
 
 <hr>
 Neural Network For Collision Prediction- collect training data for a robotics task and, in turn, design a neural network that can process this data. Overall the goal is to help a small robot navigate a simulated environment without any collisions.
